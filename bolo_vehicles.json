@@ -1,5 +1,17 @@
 [
     {
+        "plate_number": "IP52DEGP",
+        "make": "BMW",
+        "model": "X3",
+        "year": 2019,
+        "color": "Blue",
+        "province": "Gauteng",
+        "incident_type": "Stolen",
+        "date_reported": "2025-05-07",
+        "notes": "Last seen at soshanguve ext 3",
+        "reporting_contact": "SAPD Case 12345 / 0800 123 456"
+    },
+    {
         "plate_number": "JX16NCGP",
         "make": "Mercedes",
         "model": "GLE 63s",
@@ -10,5 +22,5 @@
         "date_reported": "2025-06-01",
         "notes": "Last seen heading north on N1 near Midrand",
         "reporting_contact": "SAPD Case 12345 / 0800 123 456"
-    },
+    }
 ]
