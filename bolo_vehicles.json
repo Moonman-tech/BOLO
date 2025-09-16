@@ -23,4 +23,16 @@
         "notes": "Last seen heading north on N1 near Midrand",
         "reporting_contact": "SAPD Case 12345 / 0800 123 456"
     }
+    {
+        "plate_number": "LK51JJGP",
+        "make": "Kia",
+        "model": "Sportage",
+        "year": 2024,
+        "color": "Grey",
+        "province": "Gauteng",
+        "incident_type": "Stole",
+        "date_reported": "2025-08-01",
+        "notes": "Last seen in Alexandra",
+        "reporting_contact": "SAPD Case 12345 / 0800 123 456"
+    }
 ]
